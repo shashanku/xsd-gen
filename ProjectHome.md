@@ -1,0 +1,1 @@
+Project moved to [GitHub](https://github.com/wiztools/xsd-gen).
